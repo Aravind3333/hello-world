@@ -122,7 +122,6 @@
 	}
 </style>
 <body >
-<h1>Woo Hoo !!!</h1>
 	<section class="column-lg-4 colmn-md-6 colmn-sm-12">
 		<div>
 			<p class="sub1">Section</p>
